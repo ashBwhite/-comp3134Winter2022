@@ -1,0 +1,14 @@
+#Perform a search engine Search with the keyword "get ip of domain"
+#Navigate to any online service site
+#Perform lookups for 5 distinct domains (cannot include domains from above)
+
+google.com
+Domain Name Server IP: 173.194.215.102
+
+Domain Name Server IP: 173.194.215.113
+
+Domain Name Server IP: 173.194.215.138
+
+Domain Name Server IP: 173.194.215.101
+
+Domain Name Server IP: 173.194.215.139

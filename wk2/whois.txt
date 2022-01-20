@@ -1,0 +1,21 @@
+ #Perform lookups for 5 distinct domains (not sub-domains)
+ Domain Name: ASHLEY.COM
+   Registry Domain ID: 1751664_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.corporatedomains.com
+   Registrar URL: http://cscdbs.com
+   Updated Date: 2017-11-18T20:16:41Z
+
+webashley.ca
+$16 USD/year
+
+webashley.com
+$14 USD/year
+
+ashleybros.ca
+$16 USD/year
+
+ashleybros.com
+$14 USD/year
+
+ashleytoday.ca
+$16 USD/year
