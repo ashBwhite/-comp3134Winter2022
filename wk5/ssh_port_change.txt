@@ -1,0 +1,3 @@
+root@ubuntu-s-1vcpu-1gb-nyc1-01:~# service mysql start
+
+ssh ubuntu-s-1vcpu-1gb-nyc1-01@198.199.80.173 -p 2222 -i yookyung
