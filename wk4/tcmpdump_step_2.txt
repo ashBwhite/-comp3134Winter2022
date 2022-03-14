@@ -1,0 +1,11 @@
+root@ubuntu-s-1vcpu-1gb-nyc1-01:~# tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+00:01:06.324503 IP ubuntu-s-1vcpu-1gb-nyc1-01.ssh > 198.211.111.194.16748: Flags [P.], seq 2065423082:2065423210, ack 486904370, win 502, options [nop,nop,TS val 3884264000 ecr 4145452442], length 128
+00:01:06.324555 IP ubuntu-s-1vcpu-1gb-nyc1-01.ssh > 198.211.111.194.16748: Flags [P.], seq 128:192, ack 1, win 502, options [nop,nop,TS val 3884264001 ecr 4145452442], length 64
+00:01:06.324598 IP ubuntu-s-1vcpu-1gb-nyc1-01.ssh > 198.211.111.194.16748: Flags [P.], seq 192:320, ack 1, win 502, options [nop,nop,TS val 3884264001 ecr 4145452442], length 128
+00:01:06.324626 IP ubuntu-s-1vcpu-1gb-nyc1-01.ssh > 198.211.111.194.16748: Flags [P.], seq 320:384, ack 1, win 502, options [nop,nop,TS val 3884264001 ecr 4145452442], length 64
+00:01:06.324826 IP 198.211.111.194.16748 > ubuntu-s-1vcpu-1gb-nyc1-01.ssh: Flags [.], ack 128, win 501, options [nop,nop,TS val 4145452450 ecr 3884264000], length 0
+5 packets captured
+32 packets received by filter
+0 packets dropped by kernel
